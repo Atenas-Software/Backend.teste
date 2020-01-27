@@ -1,0 +1,21 @@
+{
+  "name": "treinamento",
+  "version": "1.0.0",
+  "description": "Api Treinamento",
+  "scripts": {
+    "test": "mocha --exit --timeout 10000 src/test/",
+    "start": "nodemon server"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mocha": "^7.0.0",
+    "mongoose": "^5.8.9"
+  },
+  "devDependencies": {},
+  "author": "Atenas Software",
+  "license": "ISC"
+}
