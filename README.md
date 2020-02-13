@@ -23,6 +23,7 @@ Baseado na regra de negócio exigida pelo teste é necessário implementar:
 - Node.js (https://nodejs.org/en/)
 - Express.js (http://expressjs.com/)
 - MongoDB (https://www.mongodb.com/)
+  * Recomendamos utilizar um banco de dados em memória como o mongodb-memory-server.
 - Mongoose.js (https://mongoosejs.com/)
 - Testes com Chai.js (https://www.chaijs.com/)
 - Testes com Mocha.js (https://mochajs.org/)
