@@ -15,8 +15,8 @@ Baseado na regra de negócio exigida pelo teste é necessário implementar:
 - O Model Produto com os atributos: descricao, preco, dataCadastro e dataAtualizacao.
 - O Model Pedido com os atributos: cliente, dataCadastro e dataAtualizacao e produtos[{idProduto, descricao, quantidade, preco}].
 - As Routes cliente-route, produto-route e pedido-route com as rotas de cada modelo.
-- Os Controllers cliente-contoller, produto-contoller e pedido-contoller com as regras de negócio e validação das rotas.
-- Os Repositories cliente-repository, produto-repository e pedido-repository que serão utilizados pelos controllers para persitir e buscar os dados no banco de dados.
+- Os Controllers cliente-controller, produto-controller e pedido-controller com as regras de negócio e validação das rotas.
+- Os Repositories cliente-repository, produto-repository e pedido-repository que serão utilizados pelos controllers para persistir e buscar os dados no banco de dados.
 
 # Áreas de conhecimento
 
